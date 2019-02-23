@@ -1,0 +1,17 @@
+2019-02-23 10 INFO  com.ias.LogApp -Starting LogApp on lhj-PC with PID 6272 (D:\CODE\idea-workspace\logback-springboot-demo\target\classes started by lhj in D:\CODE\idea-workspace\logback-springboot-demo)
+2019-02-23 10 INFO  com.ias.LogApp -The following profiles are active: dev
+2019-02-23 10 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8768 (http)
+2019-02-23 10 INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8768"]
+2019-02-23 10 INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-02-23 10 INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-23 10 INFO  org.apache.catalina.core.AprLifecycleListener -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\INSTALL\JDK\JDK8\IDE\jdk1.8.0_191\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Lenovo\Fingerprint Manager Pro\;D:\INSTALL\JDK\JDK8\SYS\jdk1.8.0_191\bin;D:\INSTALL\JDK\JDK8\SYS\jdk1.8.0_191\jre\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\TortoiseSVN\bin;D:\INSTALL\MAVEN\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;D:\Program Files\TortoiseGit\bin;D:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\nodejs\node_global;C:\Users\lhj\AppData\Roaming\npm;D:\INSTALL\Microsoft VS Code\bin;.]
+2019-02-23 10 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-02-23 10 INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 893 ms
+2019-02-23 10 INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor -Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-23 10 INFO  org.apache.coyote.http11.Http11NioProtocol -Starting ProtocolHandler ["http-nio-8768"]
+2019-02-23 10 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-23 10 INFO  org.springframework.web.servlet.DispatcherServlet -Initializing Servlet 'dispatcherServlet'
+2019-02-23 10 INFO  org.springframework.web.servlet.DispatcherServlet -Completed initialization in 4 ms
+2019-02-23 10 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat started on port(s): 8768 (http) with context path ''
+2019-02-23 10 INFO  com.ias.LogApp -Started LogApp in 1.725 seconds (JVM running for 2.475)
+2019-02-23 10 ERROR com.ias.contoller.HelloController -error-test

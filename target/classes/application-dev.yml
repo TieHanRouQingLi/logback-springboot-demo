@@ -1,0 +1,13 @@
+server:
+  port: 8768
+spring:
+  application:
+    name: logback-server
+  mvc:
+    servlet:
+      load-on-startup: 1
+logging:
+  level:
+    root: info
+  path: ../logs/oil/
+  config: classpath:logback-spring.xml
